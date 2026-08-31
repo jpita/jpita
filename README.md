@@ -5,7 +5,7 @@
 Open to Senior QA roles, remote.
 
 ```
-Playwright · TypeScript · Cypress · Appium · API testing · CI/CD · AI agents · GitHub Actions
+Playwright · TypeScript · Cypress · Appium · API testing · Mobile (iOS/Android) · Performance · CI/CD · AI agents
 ```
 
 ### What I build
@@ -28,11 +28,18 @@ Playwright and TypeScript, Zod schema validation on every response, CRC32 order-
 
 **[job-search-mcp](https://github.com/jpita/job-search-mcp)** — an MCP server that aggregates remote job listings from several sources, with SQLite caching, dedupe, and application tracking.
 
+### Background
+
+14 years in QA, from manual testing to building the automation platform a team runs on.
+
+Sole QA across two teams at the **Wikimedia Foundation**, covering web, iOS, Android and KaiOS, where I built the JavaScript and Cypress framework that ran on CircleCI. Before that I set up a company's QA process from nothing as QA Lead: hired and trained the team, and built the Appium, RestAssured and Espresso/XCUITest suites behind it. Most recently at **Chili Piper** on the chat, concierge and AI agent products.
+
+I have written automation in TypeScript, JavaScript, Java, Kotlin, C# and Ruby. The language is not the hard part.
+
 ### Currently
 
 - Building an agent that turns a URL or a pull request into a test plan, a Playwright run, and a bug report
 - Contributing to open source testing tools
-- Over ten years in QA, most recently at Chili Piper. Before that Wikimedia Foundation.
 
 ---
 
