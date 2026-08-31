@@ -1,8 +1,8 @@
 ## Gabriel Pita
 
-**Senior Quality Engineer** · Test Automation · Quality Platforms · AI-assisted Testing
+**Lead Quality Engineer** · Test Automation · Quality Platforms · AI-assisted Testing
 
-Open to Senior QA roles, remote.
+Open to Lead and Senior QA roles, remote.
 
 ```
 Playwright · TypeScript · Cypress · Appium · API testing · Mobile (iOS/Android) · Performance · CI/CD · AI agents
@@ -32,7 +32,7 @@ Playwright and TypeScript, Zod schema validation on every response, CRC32 order-
 
 14 years in QA, from manual testing to building the automation platform a team runs on.
 
-Sole QA across two teams at the **Wikimedia Foundation**, covering web, iOS, Android and KaiOS, where I built the JavaScript and Cypress framework that ran on CircleCI. Before that I set up a company's QA process from nothing as QA Lead: hired and trained the team, and built the Appium, RestAssured and Espresso/XCUITest suites behind it. Most recently at **Chili Piper** on the chat, concierge and AI agent products.
+Sole QA across two teams at the **Wikimedia Foundation**, covering web, iOS, Android and KaiOS, where I built the JavaScript and Cypress framework that ran on CircleCI. Before that I set up a company's QA process from nothing as QA Lead: hired and trained the team, and built the Appium, RestAssured and Espresso/XCUITest suites behind it. Most recently **Lead QA Engineer at Chili Piper**, owning quality for the chat, concierge and AI agent products.
 
 I have written automation in TypeScript, JavaScript, Java, Kotlin, C# and Ruby. The language is not the hard part.
 
