@@ -23,10 +23,9 @@ Playwright · TypeScript · Cypress · Appium · API testing · Mobile (iOS/Andr
 
 ### Selected work
 
-**[kraken-api-tests](https://github.com/jpita/kraken-api-tests)** — contract tests for the Kraken public API.
-Playwright and TypeScript, Zod schema validation on every response, CRC32 order-book verification over the WebSocket v2 feed. Ships with a written test plan.
+**[ai-qa-engineer](https://github.com/jpita/ai-qa-engineer)** — a coding-agent skill that maps a web app from its UI and source, plans coverage at the right layer, runs the tests, and triages each failure with evidence.
 
-**[job-search-mcp](https://github.com/jpita/job-search-mcp)** — an MCP server that aggregates remote job listings from several sources, with SQLite caching, dedupe, and application tracking.
+**[capybaraTest](https://github.com/jpita/capybaraTest)** — 68 end-to-end scenarios for OWASP Juice Shop using Capybara, RSpec, and Selenium. The self-contained suite found three real defects and runs in parallel on CI.
 
 ### Background
 
