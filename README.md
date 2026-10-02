@@ -25,8 +25,6 @@ Playwright · TypeScript · Cypress · Appium · API testing · Mobile (iOS/Andr
 
 **[ai-qa-engineer](https://github.com/jpita/ai-qa-engineer)** — a coding-agent skill that maps a web app from its UI and source, plans coverage at the right layer, runs the tests, and triages each failure with evidence.
 
-**[capybaraTest](https://github.com/jpita/capybaraTest)** — 68 end-to-end scenarios for OWASP Juice Shop using Capybara, RSpec, and Selenium. The self-contained suite found three real defects and runs in parallel on CI.
-
 ### Background
 
 14 years in QA, from manual testing to building the automation platform a team runs on.
